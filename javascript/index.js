@@ -54,7 +54,7 @@ toggle.addEventListener("click", ()=>{
                 type: 'carousel1',
                 startAt: 0,
                 perView: 1,
-                // autoplay: 3000,
+                autoplay: 3000,
                 hoverpause: true,
                 rewind:false
             });
